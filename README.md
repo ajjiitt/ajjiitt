@@ -9,4 +9,4 @@
 <!--  [![LinkedIn](https://img.shields.io/badge/AdityasutarOO7-grey?style=for-the-badge&logo=twitter)](https://twitter.com/AdityasutarOO7) -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=ajjiitt&count_private=true&show_icons=true&include_all_commits=true&theme=nord" alt="ajjiitt | Stats" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ajjiitt&layout=compact&theme=nord" alt="MrWhoKnows' Wakatime Stats" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ajjiitt&layout=compact&theme=nord" alt="MrWhoKnows' Wakatime Stats" /> -->
