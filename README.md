@@ -10,4 +10,4 @@
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=ajjiitt&count_private=true&show_icons=true&include_all_commits=true&theme=nord" alt="ajjiitt | Stats" /> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ajjiitt&layout=compact&theme=nord" alt="MrWhoKnows' Wakatime Stats" /> -->
-![Ajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajjiitt&show_icons=true&theme=radical)
+![Ajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajjiitt&show_icons=true&theme=dracula)
