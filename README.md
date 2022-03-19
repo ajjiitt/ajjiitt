@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Ajit
-- 🔭 I’m currently working as Backend Development Intern @admybrand
-- 🌱 I’m currently learning cloud technology & blockchian developement. ☁️
+- 🔭 I’m currently working as Backend Development Intern @GrowthGear
+- 🌱 I’m currently learning backend & blockchian developement. ☁️
 - ⚙️ I got skills around full-stack development,hybrid mobile application developement, software architecture, testing.
 - 👯 I’m looking to collaborate on backend, frontend and cloud part.
 - 💬 Ask me about Javascript, Software architecture, Testing, Golang, Flutter, Java.
@@ -10,4 +10,4 @@
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=ajjiitt&count_private=true&show_icons=true&include_all_commits=true&theme=nord" alt="ajjiitt | Stats" /> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ajjiitt&layout=compact&theme=nord" alt="MrWhoKnows' Wakatime Stats" /> -->
-![Ajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajjiitt&show_icons=true&theme=tokyonight)
+<!-- ![Ajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajjiitt&show_icons=true&theme=tokyonight) -->
