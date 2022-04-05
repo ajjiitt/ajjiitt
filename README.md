@@ -1,4 +1,6 @@
-### Hi there 👋, I am Ajit
+<p align="center">
+  <h1 align="center">Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">, I am pradeep </h1>
+</p>
 - 🔭 I’m currently working as Backend Development Intern @GrowthGear
 - 🌱 I’m currently learning backend & blockchian developement. ☁️
 - ⚙️ I got skills around full-stack development,hybrid mobile application developement, software architecture, testing.
