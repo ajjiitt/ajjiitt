@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">, I am pradeep </h1>
+  <h1 align="center">Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">, I am Ajit R Dakre </h1>
 </p>
 - 🔭 I’m currently working as Backend Development Intern @GrowthGear
 - 🌱 I’m currently learning backend & blockchian developement. ☁️
