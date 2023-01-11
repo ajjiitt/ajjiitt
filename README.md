@@ -4,8 +4,8 @@
 <!-- - 🔭 I’m currently working as Backend Development Intern @GrowthGear -->
 - 🌱 I’m currently learning backend & blockchian developement. ☁️
 - ⚙️ I got skills around full-stack development,hybrid mobile application developement, software architecture, testing.
-- 👯 I’m looking to collaborate on backend, frontend and cloud part.
-- 💬 Ask me about Javascript, Software architecture, Testing, Golang, Flutter, Java.
+- 👯 I’m looking to collaborate on backend, frontend and blockchain technology.
+- 💬 Ask me about Javascript, NodeJS, Java, GO, Solidity.
 - 📫 How to reach me:<br/>
  [![LinkedIn](https://img.shields.io/badge/Ajit_Dakre-grey?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ajjiitt/)
 <!--  [![LinkedIn](https://img.shields.io/badge/AdityasutarOO7-grey?style=for-the-badge&logo=twitter)](https://twitter.com/AdityasutarOO7) -->
